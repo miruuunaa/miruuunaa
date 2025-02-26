@@ -2,6 +2,8 @@
 <h3 align="center">A second-year computer science student studying in German.</h3>
 
 - 📫 How to reach me **mitrimiruna@gmail.com**
+- 👯 I’m looking to collaborate on any kind of projects
+- ⚡ I enjoy exploring new technologies and acquiring diverse skills in my spare time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
