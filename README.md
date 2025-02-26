@@ -19,6 +19,7 @@
 
 ### 📖 Languages I Speak
 
+- **Romanian** Native ![Progress](https://img.shields.io/badge/Native-100%25-red)
 - **English** B2 ![Progress](https://img.shields.io/badge/B2-80%25-brightgreen)
 - **German** B2/C1 ![Progress](https://img.shields.io/badge/B2%2FC1-85%25-blue)
 
